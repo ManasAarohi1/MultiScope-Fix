@@ -472,7 +472,7 @@ class DetectionManager:
             "description": description,
             "color": biome_color,
             "footer": {
-                "text": f"MultiScope | v{self.app.version}",
+                "text": f"MultiScope | v{self.app.version} (Manas Patch)",
                 "icon_url": "https://i.postimg.cc/mDzwFfX1/GLITCHED.png"
             },
         }
