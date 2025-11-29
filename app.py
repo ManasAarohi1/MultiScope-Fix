@@ -25,7 +25,7 @@ except ImportError:
     print("AntiAFK module not found or failed to import. Anti-AFK features disabled.")
     AntiAFK = None
 
-APP_VERSION = "0.9.8-Stable"
+APP_VERSION = "0.9.9-Stable Manas Patch"
 
 class MultiScopeApp:
     def __init__(self, gui_manager_class=None):
@@ -377,7 +377,7 @@ class MultiScopeApp:
         icon_url = "https://i.postimg.cc/mDzwFfX1/GLITCHED.png"
         title = f"📊 Status Update: {status_message.split(' (')[0]}" 
 
-        description = f"**Status:** {status_message}\n"
+        description = f"**Status:** {status_message}\n (Manas Patch))"
         description += f"**Time:** <t:{timestamp_unix}:F> (<t:{timestamp_unix}:R>)\n"
         description += f"**Version:** {self.version}\n"
         description += f"**Support Server:** https://discord.gg/6cuCu6ymkX"
