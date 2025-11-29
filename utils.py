@@ -212,7 +212,7 @@ def load_biome_data():
         "NULL": {"emoji": "🌫️", "color": "0x808080", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/NULL.png"},
         "GLITCHED": {"emoji": "⚠️", "color": "0xFFFF00", "thumbnail_url": "https://i.postimg.cc/mDzwFfX1/GLITCHED.png"},
         "DREAMSPACE": {"emoji": "💤", "color": "0xFF00FF", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/DREAMSPACE.png"},
-        "BLAZING SUN": {"emoji": "☀️", "color": "0xFFD700", "thumbnail_url": "https://static.wikia.nocookie.net/fcs-vs-battle/images/2/2c/Annoying_Dog_Render.png/revision/latest/scale-to-width-down/340?cb=20180730225500"},
+        "CYBERSPACE": {"emoji": "👾", "color": "0x4169E1", "thumbnail_url": "https://i.postimg.cc/1XmrGyz3/image.png"},
         "BLOOD RAIN": {"emoji": "🩸", "color": "0x8B0000", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/BLOOD%20RAIN.png"},
         "PUMPKIN MOON": {"emoji": "🎃", "color": "0xFF8C00", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/PUMPKIN%20MOON.png"},
         "GRAVEYARD": {"emoji": "🪦", "color": "0x4B0082", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/GRAVEYARD.png"},
