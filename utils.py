@@ -212,10 +212,11 @@ def load_biome_data():
         "NULL": {"emoji": "🌫️", "color": "0x808080", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/NULL.png"},
         "GLITCHED": {"emoji": "⚠️", "color": "0xFFFF00", "thumbnail_url": "https://i.postimg.cc/mDzwFfX1/GLITCHED.png"},
         "DREAMSPACE": {"emoji": "💤", "color": "0xFF00FF", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/DREAMSPACE.png"},
-        "CYBERSPACE": {"emoji": "👾", "color": "0x4169E1", "thumbnail_url": "https://i.postimg.cc/1XmrGyz3/image.png"},
+        "CYBERSPACE": {"emoji": "🌐", "color": "0x4169E1", "thumbnail_url": "https://i.postimg.cc/1XmrGyz3/image.png"},
         "BLOOD RAIN": {"emoji": "🩸", "color": "0x8B0000", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/BLOOD%20RAIN.png"},
         "PUMPKIN MOON": {"emoji": "🎃", "color": "0xFF8C00", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/PUMPKIN%20MOON.png"},
-        "GRAVEYARD": {"emoji": "🪦", "color": "0x4B0082", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/GRAVEYARD.png"},
+        "GRAVEYARD": {"emoji": "🪦", "color": "0x4B0082", "thumbnail_url": "https://i.postimg.cc/sgVtg88W/heaven.png"},
+        "HEAVEN": {"emoji": "😇", "color": "0xE7DB43", "thumbnail_url": "https://maxstellar.github.io/biome_thumb/GRAVEYARD.png"},
         "NORMAL": {"emoji": "🌳", "color": "0x00FF00", "thumbnail_url": ""}
     }
 
